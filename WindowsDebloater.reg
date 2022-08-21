@@ -1,7 +1,6 @@
 Windows Registry Editor Version 5.00
 
-;GiacomoL02 Registry Editor script
-;19/08/2022
+;USE IT AT YOUR OWN RISK
 
 ;Adding seconds in system clock
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
@@ -46,6 +45,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager]
 "SubscribedContent-338389Enabled"=dword:00000000
 
-;Remove every "New File" Types from context menu exept .txt and .zip
-;Remove Nvidia graphics Software shortcuts from cotext menu
-;Remove Radeon graphics Software shortcuts from cotext menu
+;Tasks to add:
+;	-Remove every "New File" Types from context menu exept .txt and .zip
+;	-Remove Nvidia graphics Software shortcuts from cotext menu
+;	-Remove Radeon graphics Software shortcuts from cotext menu
