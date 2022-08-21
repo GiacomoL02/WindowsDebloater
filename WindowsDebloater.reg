@@ -45,7 +45,10 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager]
 "SubscribedContent-338389Enabled"=dword:00000000
 
+;Remove Nvidia control panel from context menu
+[HKEY_CURRENT_USER\SOFTWARE\NVIDIA Corporation\Global\NvCplApi\Policies]
+"ContextUIPolicy"=dword:00000000
+
 ;Tasks to add:
 ;	-Remove every "New File" Types from context menu exept .txt and .zip
-;	-Remove Nvidia graphics oftware shortcuts from cotext menu
-;	-Remove Radeon graphics software shortcuts from cotext menu
+;	-Remove Radeon control panel from cotext menu
