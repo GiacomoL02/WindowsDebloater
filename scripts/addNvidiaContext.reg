@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\NVIDIA Corporation\Global\NvCplApi\Policies]
+"ContextUIPolicy"=dword:00000002
