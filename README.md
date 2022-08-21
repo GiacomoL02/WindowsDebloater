@@ -2,19 +2,19 @@
 This repo contains registry editor scripts to partially debloat windows 10 64bit
 
 Features:
-  - Adding seconds in system clock
-	- Removing default 3D Folder
-	- Remove default OneDrive folder
-	- Removing Lockscreen
-	- Remove Search menu entertainment
-	- Set small taskbar
-	- Remove Windows Spotlight (Lock screen annoying infos)
-	- Remove other suggestions/ads
-	- Remove Nvidia graphics Software shortcuts from context menu  
-\
+- Adding seconds in system clock
+- Removing default 3D Folder
+- Remove default OneDrive folder
+- Removing Lockscreen
+- Remove Search menu entertainment
+- Set small taskbar
+- Remove Windows Spotlight (Lock screen annoying infos)
+- Remove other suggestions/ads
+- Remove Nvidia graphics Software shortcuts from context menu
+  
 To add:
-	- Remove every "New File" Types from context menu exept .txt and .zip
-	- Remove Radeon graphics Software shortcuts from cotext menu
+- Remove every "New File" Types from context menu exept .txt and .zip
+- Remove Radeon graphics Software shortcuts from cotext menu
   
 WARNING: USE IT AT YOUR OWN RISK
 
