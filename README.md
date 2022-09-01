@@ -11,10 +11,10 @@ Features:
 - Remove Windows Spotlight (Lock screen annoying infos)
 - Remove other suggestions/ads
 - Remove Nvidia graphics Software shortcuts from context menu
+- Remove Radeon graphics Software shortcuts from cotext menu
   
 To add:
 - Remove every "New File" Types from context menu exept .txt and .zip
-- Remove Radeon graphics Software shortcuts from cotext menu
   
 WARNING: USE IT AT YOUR OWN RISK
 
